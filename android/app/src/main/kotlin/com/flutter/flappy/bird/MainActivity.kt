@@ -1,4 +1,4 @@
-package com.flutter.flappy.bird.flutter_flappy_bird
+package com.flutter.flappy.bird
 
 import io.flutter.embedding.android.FlutterActivity
 
